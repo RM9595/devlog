@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bybar\\Desktop\\workspace\\Language\\C Programmaing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6AEA30-9C5A-4DED-96E0-F80CB4524578}|C Programmaing.vcxproj|C:\\Users\\bybar\\Desktop\\workspace\\Language\\C Programmaing\\Overflow.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B6AEA30-9C5A-4DED-96E0-F80CB4524578}|C Programmaing.vcxproj|solutionrelative:Overflow.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6AEA30-9C5A-4DED-96E0-F80CB4524578}|C Programmaing.vcxproj|C:\\Users\\bybar\\Desktop\\workspace\\Language\\C Programmaing\\BitwiseOperator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B6AEA30-9C5A-4DED-96E0-F80CB4524578}|C Programmaing.vcxproj|solutionrelative:BitwiseOperator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6AEA30-9C5A-4DED-96E0-F80CB4524578}|C Programmaing.vcxproj|C:\\Users\\bybar\\Desktop\\workspace\\Language\\C Programmaing\\AssignmentOperator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B6AEA30-9C5A-4DED-96E0-F80CB4524578}|C Programmaing.vcxproj|solutionrelative:AssignmentOperator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6AEA30-9C5A-4DED-96E0-F80CB4524578}|C Programmaing.vcxproj|C:\\Users\\bybar\\Desktop\\workspace\\Language\\C Programmaing\\ArithmeticOperator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B6AEA30-9C5A-4DED-96E0-F80CB4524578}|C Programmaing.vcxproj|solutionrelative:ArithmeticOperator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6AEA30-9C5A-4DED-96E0-F80CB4524578}|C Programmaing.vcxproj|C:\\Users\\bybar\\Desktop\\workspace\\Language\\C Programmaing\\Variable2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B6AEA30-9C5A-4DED-96E0-F80CB4524578}|C Programmaing.vcxproj|solutionrelative:Variable2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6AEA30-9C5A-4DED-96E0-F80CB4524578}|C Programmaing.vcxproj|C:\\Users\\bybar\\Desktop\\workspace\\Language\\C Programmaing\\Variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B6AEA30-9C5A-4DED-96E0-F80CB4524578}|C Programmaing.vcxproj|solutionrelative:Variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6AEA30-9C5A-4DED-96E0-F80CB4524578}|C Programmaing.vcxproj|C:\\Users\\bybar\\Desktop\\workspace\\Language\\C Programmaing\\HelloWorld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B6AEA30-9C5A-4DED-96E0-F80CB4524578}|C Programmaing.vcxproj|solutionrelative:HelloWorld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Overflow.c",
+              "DocumentMoniker": "C:\\Users\\bybar\\Desktop\\workspace\\Language\\C Programmaing\\Overflow.c",
+              "RelativeDocumentMoniker": "Overflow.c",
+              "ToolTip": "C:\\Users\\bybar\\Desktop\\workspace\\Language\\C Programmaing\\Overflow.c",
+              "RelativeToolTip": "Overflow.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-17T16:51:35.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BitwiseOperator.c",
+              "DocumentMoniker": "C:\\Users\\bybar\\Desktop\\workspace\\Language\\C Programmaing\\BitwiseOperator.c",
+              "RelativeDocumentMoniker": "BitwiseOperator.c",
+              "ToolTip": "C:\\Users\\bybar\\Desktop\\workspace\\Language\\C Programmaing\\BitwiseOperator.c",
+              "RelativeToolTip": "BitwiseOperator.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-17T16:50:58.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssignmentOperator.c",
+              "DocumentMoniker": "C:\\Users\\bybar\\Desktop\\workspace\\Language\\C Programmaing\\AssignmentOperator.c",
+              "RelativeDocumentMoniker": "AssignmentOperator.c",
+              "ToolTip": "C:\\Users\\bybar\\Desktop\\workspace\\Language\\C Programmaing\\AssignmentOperator.c",
+              "RelativeToolTip": "AssignmentOperator.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-17T16:50:17.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArithmeticOperator.c",
+              "DocumentMoniker": "C:\\Users\\bybar\\Desktop\\workspace\\Language\\C Programmaing\\ArithmeticOperator.c",
+              "RelativeDocumentMoniker": "ArithmeticOperator.c",
+              "ToolTip": "C:\\Users\\bybar\\Desktop\\workspace\\Language\\C Programmaing\\ArithmeticOperator.c",
+              "RelativeToolTip": "ArithmeticOperator.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-17T16:49:37.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Variable2.c",
+              "DocumentMoniker": "C:\\Users\\bybar\\Desktop\\workspace\\Language\\C Programmaing\\Variable2.c",
+              "RelativeDocumentMoniker": "Variable2.c",
+              "ToolTip": "C:\\Users\\bybar\\Desktop\\workspace\\Language\\C Programmaing\\Variable2.c",
+              "RelativeToolTip": "Variable2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-17T16:48:42.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Variable.c",
+              "DocumentMoniker": "C:\\Users\\bybar\\Desktop\\workspace\\Language\\C Programmaing\\Variable.c",
+              "RelativeDocumentMoniker": "Variable.c",
+              "ToolTip": "C:\\Users\\bybar\\Desktop\\workspace\\Language\\C Programmaing\\Variable.c",
+              "RelativeToolTip": "Variable.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-17T16:47:49.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HelloWorld.c",
+              "DocumentMoniker": "C:\\Users\\bybar\\Desktop\\workspace\\Language\\C Programmaing\\HelloWorld.c",
+              "RelativeDocumentMoniker": "HelloWorld.c",
+              "ToolTip": "C:\\Users\\bybar\\Desktop\\workspace\\Language\\C Programmaing\\HelloWorld.c",
+              "RelativeToolTip": "HelloWorld.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-17T16:47:13.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
